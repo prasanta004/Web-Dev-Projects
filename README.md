@@ -1,2 +1,2 @@
-# Web-Dev-Projects
+# Intenshiup Web Development Project
 These are my Web Development Projects
